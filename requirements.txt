@@ -1,0 +1,11 @@
+﻿pandas
+numpy
+scikit-learn
+xgboost
+joblib
+fastapi
+uvicorn
+plotly
+dash
+openpyxl
+pytest
